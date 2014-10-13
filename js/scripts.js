@@ -6,7 +6,7 @@ $(document).foundation();
 $(document).ready(function(){
   
   // Your Scripts
-  $("iframe").fitVids();
+  $(".container").fitVids();
 
 
 });
